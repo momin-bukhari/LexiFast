@@ -97,12 +97,6 @@ LexiFast follows a modular pipeline:
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here (UI, search results, autocomplete)
-
----
-
 ## 🚀 Installation & Setup
 
 ```bash
